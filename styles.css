@@ -4,7 +4,7 @@
 	display: flex;
 	flex-wrap: wrap;
 }
-
+/* Every div with a class of square will be styled like below */
 .square {
 	height: 200px;
 	width: 200px;
